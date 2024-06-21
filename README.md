@@ -76,6 +76,7 @@ By using this dashboard, the coffee shop can improve its services, increase cust
 
           Top 10 Products = TOPN(10, VALUES(Sales[ProductName]), [Total Sales], DESC)
    -    Visualize Top 10 Products: I used a bar chart to display the top 10 products based on sales volume, allowing us to quickly see the best-performing products.
+
         ![Snap_1](https://github.com/akshinth/Coffee-sales-Powerbi-project/assets/108680058/e93149be-8c57-44ea-ab3a-2dc012b4347f)
  
 
